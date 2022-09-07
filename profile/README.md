@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 
+
+Our website [https://awsl.aks.dreamhunter2333.com/](https://awsl.aks.dreamhunter2333.com/)
+
+Our api [https://awsl-api.aks.dreamhunter2333.com/docs](https://awsl-api.aks.dreamhunter2333.com/docs)
 
 <!--
 
