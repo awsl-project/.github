@@ -4,6 +4,8 @@ Our website [https://awsl.aks.dreamhunter2333.com/](https://awsl.aks.dreamhunter
 
 Our api [https://awsl-api.aks.dreamhunter2333.com/docs](https://awsl-api.aks.dreamhunter2333.com/docs)
 
+[![Deploy awsl](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml)
+
 <!--
 
 **Here are some ideas to get you started:**
