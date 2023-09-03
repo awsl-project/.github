@@ -1,6 +1,6 @@
 ## Hi 
 
-Our website [https://awsl.icu/](https://awsl.icu/)
+Our website [https://www.awsl.icu/](https://www.awsl.icu/)
 
 Our api [https://awsl-api.aks.dreamhunter2333.com/docs](https://awsl-api.aks.dreamhunter2333.com/docs)
 
