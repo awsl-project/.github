@@ -4,6 +4,8 @@ Our website [https://www.awsl.icu/](https://www.awsl.icu/)
 
 Our api [https://awsl.api.awsl.icu/docs](https://awsl.api.awsl.icu/docs)
 
+Our status [https://uptime.aks.dreamhunter2333.com/status/awsl-api](https://uptime.aks.dreamhunter2333.com/status/awsl-api)
+
 [![Deploy awsl](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml/badge.svg)](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml)
 <!--
 
