@@ -1,10 +1,24 @@
 ## Hi 
 
-Our website [https://www.awsl.icu/](https://www.awsl.icu/)
+## Our website [https://www.awsl.icu/](https://www.awsl.icu/)
 
-Our api [https://awsl.api.awsl.icu/docs](https://awsl.api.awsl.icu/docs)
+![](https://uptime.aks.awsl.icu/api/badge/2/status)
+![](https://uptime.aks.awsl.icu/api/badge/2/uptime)
+![](https://uptime.aks.awsl.icu/api/badge/2/ping)
+![](https://uptime.aks.awsl.icu/api/badge/2/avg-response)
+![](https://uptime.aks.awsl.icu/api/badge/2/cert-exp)
+![](https://uptime.aks.awsl.icu/api/badge/2/response)
 
-Our status [https://uptime.aks.dreamhunter2333.com/status/awsl-api](https://uptime.aks.dreamhunter2333.com/status/awsl-api)
+## Our api [https://awsl.api.awsl.icu/docs](https://awsl.api.awsl.icu/docs)
+
+![](https://uptime.aks.awsl.icu/api/badge/1/status)
+![](https://uptime.aks.awsl.icu/api/badge/1/uptime)
+![](https://uptime.aks.awsl.icu/api/badge/1/ping)
+![](https://uptime.aks.awsl.icu/api/badge/1/avg-response)
+![](https://uptime.aks.awsl.icu/api/badge/1/cert-exp)
+![](https://uptime.aks.awsl.icu/api/badge/1/response)
+
+## Our status [https://uptime.aks.awsl.icu/status/awsl-api](https://uptime.aks.awsl.icu/status/awsl-api)
 
 [![Deploy awsl](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml/badge.svg)](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml)
 <!--
