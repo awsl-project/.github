@@ -20,6 +20,8 @@
 
 ## Our status [https://uptime.aks.awsl.icu/status/awsl-api](https://uptime.aks.awsl.icu/status/awsl-api)
 
+## Privacy Policy [https://privacy-policy.awsl.icu/](https://privacy-policy.awsl.icu/)
+
 [![Deploy awsl](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml/badge.svg)](https://github.com/awsl-project/awsl-pipeline/actions/workflows/release.yml)
 <!--
 
