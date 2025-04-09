@@ -1,5 +1,7 @@
 ## Hi 
 
+## Our website [https://next.awsl.icu/](https://next.awsl.icu/)
+
 ## Our website [https://www.awsl.icu/](https://www.awsl.icu/)
 
 ![](https://uptime.aks.awsl.icu/api/badge/2/status)
