@@ -4,23 +4,23 @@
 
 ## Our website [https://www.awsl.icu/](https://www.awsl.icu/)
 
-![](https://uptime.aks.awsl.icu/api/badge/2/status)
-![](https://uptime.aks.awsl.icu/api/badge/2/uptime)
-![](https://uptime.aks.awsl.icu/api/badge/2/ping)
-![](https://uptime.aks.awsl.icu/api/badge/2/avg-response)
-![](https://uptime.aks.awsl.icu/api/badge/2/cert-exp)
-![](https://uptime.aks.awsl.icu/api/badge/2/response)
+![](https://uptime.awsl.icu/api/badge/2/status)
+![](https://uptime.awsl.icu/api/badge/2/uptime)
+![](https://uptime.awsl.icu/api/badge/2/ping)
+![](https://uptime.awsl.icu/api/badge/2/avg-response)
+![](https://uptime.awsl.icu/api/badge/2/cert-exp)
+![](https://uptime.awsl.icu/api/badge/2/response)
 
 ## Our api [https://awsl.api.awsl.icu/docs](https://awsl.api.awsl.icu/docs)
 
-![](https://uptime.aks.awsl.icu/api/badge/1/status)
-![](https://uptime.aks.awsl.icu/api/badge/1/uptime)
-![](https://uptime.aks.awsl.icu/api/badge/1/ping)
-![](https://uptime.aks.awsl.icu/api/badge/1/avg-response)
-![](https://uptime.aks.awsl.icu/api/badge/1/cert-exp)
-![](https://uptime.aks.awsl.icu/api/badge/1/response)
+![](https://uptime.awsl.icu/api/badge/1/status)
+![](https://uptime.awsl.icu/api/badge/1/uptime)
+![](https://uptime.awsl.icu/api/badge/1/ping)
+![](https://uptime.awsl.icu/api/badge/1/avg-response)
+![](https://uptime.awsl.icu/api/badge/1/cert-exp)
+![](https://uptime.awsl.icu/api/badge/1/response)
 
-## Our status [https://uptime.aks.awsl.icu/status/awsl-api](https://uptime.aks.awsl.icu/status/awsl-api)
+## Our status [https://uptime.awsl.icu/status/awsl-api](https://uptime.awsl.icu/status/awsl-api)
 
 ## Privacy Policy [https://privacy-policy.awsl.icu/](https://privacy-policy.awsl.icu/)
 
